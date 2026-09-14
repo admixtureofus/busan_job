@@ -1,0 +1,22 @@
+{
+  "weights_regression": {
+    "regular": 0.6369011646571363,
+    "log_pay": 0.36309883534286364
+  },
+  "weights_entropy": {
+    "regular": 0.16882406768137048,
+    "log_pay": 0.8311759323186295
+  },
+  "auc_location": 0.7506241578822224,
+  "auc_retention": 0.6758773836370833,
+  "n_goms": 4296,
+  "n_retention": 2294,
+  "stay_rate": 0.5339851024208566,
+  "silhouette": 0.6184948533214009,
+  "ari": 0.717115138608286,
+  "rank_corr": {
+    "vs_entropy": 0.8389084712220103,
+    "vs_equal": 0.9787201259152475
+  },
+  "k": 2
+}
